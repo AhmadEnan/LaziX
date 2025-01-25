@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+*.filters
+*.vcxproj
+*.sln
+*.cmake
+/CMakeCache.txt
+/CMakeFiles
